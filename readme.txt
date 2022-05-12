@@ -1,0 +1,5 @@
+color used:
+FCFFA6
+C1FFD7
+BF5DFF
+CAB8FF
