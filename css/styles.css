@@ -45,6 +45,9 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color:#11999E;
 }
+h1{
+    line-height: 2;
+}
 .middle-container{
     margin-top: 150px;
 }
@@ -52,4 +55,16 @@ a{
     color:#11999E;
     margin-left: 5px;
     margin-right: 5px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.first{
+    width: 25%;
+}
+.second{
+    width: 25%;
 }
