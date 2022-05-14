@@ -2,12 +2,14 @@ body{
     margin: 0px;
     text-align: center;
     background-color: #C1FFD7;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 .Name{
     margin-top: 0px;
     margin-bottom: 0px;
     position:relative;
     top:150px;
+     
     
     
 }
@@ -22,7 +24,8 @@ body{
 }
 .bottom-cloud{
     position:absolute;
-    bottom: 300px;
+    bottom: 260px;
+    left: 260px;
 }
 
 .top-cloud{
@@ -33,4 +36,20 @@ body{
 .mountain{
     position:relative;
     top: 150px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+.middle-container{
+    margin-top: 150px;
+}
+a{
+    color:#11999E;
+    margin-left: 5px;
+    margin-right: 5px;
 }
